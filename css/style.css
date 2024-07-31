@@ -1,7 +1,7 @@
-@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Open+Sans:wght@300;400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;600;700&display=swap");
 
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Josefin Sans", sans-serif;
   color: #0c0c0c;
   background-color: #ffffff;
   overflow-x: hidden;
@@ -39,7 +39,6 @@ body {
 
 .heading_container h2 {
   position: relative;
-  font-family: "Lato", sans-serif;
   font-weight: bold;
   margin-bottom: 0;
 }
@@ -125,7 +124,6 @@ a:focus {
 }
 
 .navbar-brand span {
-  font-family: "Lato", sans-serif;
   font-weight: bold;
   font-size: 24px;
   color: #ffffff;
@@ -240,7 +238,6 @@ a:focus {
 }
 
 .slider_section .detail-box h1 {
-  font-family: "Lato", sans-serif;
   font-size: 3rem;
   font-weight: bold;
   text-transform: uppercase;
@@ -367,7 +364,6 @@ a:focus {
 }
 
 .service_section .box .detail-box h5 {
-  font-family: "Lato", sans-serif;
   font-weight: bold;
   text-transform: uppercase;
 }
@@ -419,7 +415,6 @@ a:focus {
 }
 
 .about_section .detail-box h3 {
-  font-family: "Lato", sans-serif;
   font-weight: bold;
 }
 
@@ -470,7 +465,6 @@ a:focus {
 }
 
 .why_section .box h5 {
-  font-family: "Lato", sans-serif;
   font-weight: bold;
   margin-bottom: 10px;
 }
@@ -540,7 +534,6 @@ a:focus {
 }
 
 .team_section .team_container .box .detail-box h5 {
-  font-family: "Lato", sans-serif;
   color: #00bbf0;
   font-weight: 600;
   position: relative;
@@ -594,13 +587,11 @@ a:focus {
 }
 
 .client_section .box .client_id .client_info h6 {
-  font-family: "Lato", sans-serif;
   font-weight: 600;
   margin-bottom: 5px;
 }
 
 .client_section .box .client_id .client_info p {
-  font-family: "Open Sans", sans-serif;
   font-size: 14px;
   margin-bottom: 10px;
 }
@@ -647,7 +638,6 @@ a:focus {
 }
 
 .info_section h4 {
-  font-family: "Lato", sans-serif;
   font-weight: 600;
   margin-bottom: 20px;
 }
@@ -750,7 +740,6 @@ a:focus {
 }
 
 .footer_section p {
-  font-family: "Open Sans", sans-serif;
   color: #00204a;
   padding: 25px 0;
   margin: 0;
