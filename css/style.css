@@ -116,6 +116,7 @@ a:focus {
 
 .header_section {
   padding: 15px 0;
+  background-color: hsl(197, 95%, 23%);
 }
 
 .header_section .container-fluid {
