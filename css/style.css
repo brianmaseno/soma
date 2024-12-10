@@ -44,7 +44,7 @@ body {
 }
 
 .heading_container h2 span {
-  color: #00bbf0;
+  color: #032775;
 }
 
 .heading_container p {
@@ -116,7 +116,7 @@ a:focus {
 
 .header_section {
   padding: 15px 0;
-  background-color: hsl(197, 95%, 23%);
+  background:  #0396ff;
 }
 
 .header_section .container-fluid {
@@ -148,7 +148,7 @@ a:focus {
 }
 
 .custom_nav-container .navbar-nav .nav-item:hover .nav-link, .custom_nav-container .navbar-nav .nav-item.active .nav-link {
-  color: #00bbf0;
+  color: rgb(30, 2, 129);
 }
 
 .custom_nav-container .navbar-nav .nav-item.active .nav-link {
@@ -441,7 +441,7 @@ a:focus {
   background-color: #007fa4;
 }
 .why_section{
-  background-color: hsl(197, 95%, 23%);
+  background-color: #0396ff;
   color: white
   ;
 }
@@ -642,7 +642,7 @@ a:focus {
 
 /* client section end */
 .info_section {
-  background-color: hsl(197, 95%, 23%);
+  background-color: #0396ff;
   color: #ffffff;
   padding: 45px 0 15px 0;
 }
